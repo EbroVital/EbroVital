@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est NANGO EBROTTIE VITAL !
 
-## 💻 Développeur Full-Stack | PHP • Laravel • Python • Django
+## 💻 Développeur | PHP • Laravel • Python • Django
 
 Passionné par la création d'applications web performantes et élégantes. Je transforme des idées en solutions concrètes.
 
