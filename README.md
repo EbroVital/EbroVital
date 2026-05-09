@@ -15,7 +15,7 @@ Passionné par la création d'applications web performantes et élégantes. Je t
 ---
 
 ### 🛠️ Stack Technique
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,python,django,flask,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,python,django,flask,mysql,sqlite,git,github)](https://skillicons.dev)
 
 ### 📫 Me Contacter
 
