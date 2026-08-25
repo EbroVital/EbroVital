@@ -1,12 +1,12 @@
-# 👋 Salut, moi c'est NANGO EBROTTIE VITAL !
+#  Salut, moi c'est NANGO EBROTTIE VITAL !
 
-## 💻 Développeur Web Junior
+##  Développeur Web Junior
 
 Passionné par la création d'applications web performantes et élégantes. Je transforme des idées en solutions concrètes.
 
 ---
 
-### 🚀 À propos de moi
+###  À propos de moi
 
 - 💼 Ouvert à : **Freelance**, **Collaborations**, **Opportunités Remote**
 - 🌍 Basé à **Abidjan, Côte d'Ivoire**
