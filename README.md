@@ -1,4 +1,4 @@
-# Salut, moi c'est NANGO EBROTTIE VITAL ! 👋
+# Salut, moi c'est NANGO EBROTTIE VITAL ! 
 
 ## Développeur Web Junior
 
@@ -12,18 +12,6 @@ Passionné par la création d'applications web performantes et élégantes. Je t
 - 🌍 Basé à **Abidjan, Côte d'Ivoire**
 - 📚 Actuellement en train d'approfondir **JavaScript** (DOM, async/await, POO) avant de passer à **Vue.js**
 - ⚡ Fun fact : Passionné par la **crypto**, le **trading algorithmique** et le **gaming**
-
----
-
-### 🚀 Projets récents
-
-Quelques projets front-end développés en JavaScript vanilla, pour pratiquer la manipulation du DOM, la programmation orientée objet et les appels API asynchrones.
-
-- 💰 **[Suivi de Portefeuille Crypto](#)** — Suivi en temps réel via l'API CoinGecko, variation 24h, sauvegarde locale et rafraîchissement automatique. Interface inspirée de Binance.
-- 🧾 **[Générateur de Factures](#)** — Création de factures dynamiques avec calcul automatique des totaux et validation de formulaire.
-- 📊 **[Dashboard Finances Perso](#)** — Suivi de dépenses par catégorie avec visualisation graphique (Chart.js).
-
-*(Remplace les `#` par les liens vers tes repos une fois en ligne)*
 
 ---
 
